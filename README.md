@@ -1,4 +1,4 @@
-# Pdf-Info-Reeader
+# Pdf-Info-Reader
 helper script to read pdf document info and creates a csv file
 
 ## Requirements
